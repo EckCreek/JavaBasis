@@ -1,2 +1,2 @@
 # JavaBasis
-Nur eine Main.java Klasse mit Run Command
+Nur eine Main.java Klasse
